@@ -1,0 +1,1 @@
+This is the official repo for the 2024 CanSat Germany Team AERO
